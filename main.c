@@ -309,7 +309,7 @@ void voltageAvg()
             iirVolt = iirVolt * alpha + instVoltage * (1 - alpha);
         if (i == 14)
         {
-            putsUart0("   raw value : ");
+            //putsUart0("   raw value : ");
             sprintf(voltbuffer, "%u", raw);
             putsUart0(voltbuffer);
             putsUart0("\r   Unfiltered Voltage :");
