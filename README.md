@@ -9,3 +9,5 @@ paths can be created through device connected at DUT terminal.
 
 Using time constant formula, we can easily calculate value of device connected
 
+Pins MEAS_C and HIGHSIDE_R are used to measure capacitance only.
+
