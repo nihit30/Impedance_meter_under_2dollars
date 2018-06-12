@@ -1,9 +1,4 @@
-/*
- * lcdinit.c
- *
- *  Created on: Jan 31, 2018
- *      Author: nihit
- */
+
 #include <stdint.h>
 #include "tm4c123gh6pm.h"
 
