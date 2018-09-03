@@ -1,9 +1,4 @@
-/*
- * lcdInit.h
- *
- *  Created on: Oct 25, 2017
- *      Author: nihit
- */
+
 
 #ifndef LCDINIT_H_
 #define LCDINIT_H_
